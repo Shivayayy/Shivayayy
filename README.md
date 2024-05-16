@@ -1,7 +1,7 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/Shivayayy/Shivayayy/main/assets/github.png" alt="github 3d icon" height="200">
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
-<div align=center>
+
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=102&random=false&width=435&lines=Hi+%2C+I+am+Shivam+Kumar+Dwivedi;Backend+Developer;Data+Science+Enthusiast;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
