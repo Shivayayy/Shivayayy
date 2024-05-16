@@ -19,7 +19,7 @@
 
 - Currently pursuing `Bachelor of Technology in Computer Science and Engineering` from `Indian Institute of Information technology , Guwahati`
 - I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
--  I’m currently open for a new job opportunity, this is [My Resume](http://lnkiy.in/Ahmed_Hossam_Resume).
+-  I’m currently open for a new job opportunity, this is [my Resume](http://lnkiy.in/z2wwI).
 
 
 <br/>
