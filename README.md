@@ -20,6 +20,8 @@
 - Currently pursuing `Bachelor of Technology in Computer Science and Engineering` from `Indian Institute of Information technology , Guwahati`
 - I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 -  I’m currently open for a new job opportunity, this is [`my resume`](http://lnkiy.in/z2wwI).
+-  I have a strong interest in `Data Science` and `Artificial Intelligence`
+-  Working on `Deep Learning` & `Machine Learning`
 
 
 <br/>
