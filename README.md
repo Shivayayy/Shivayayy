@@ -107,6 +107,29 @@
 
 <br/>
 
+## 📈 Github Profile Stats
+
+<p align="center">
+    <a href="https://github.com/Shivayayy">
+        <img height="180em" src="https://streak-stats.demolab.com?user=Shivayayy&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivayayy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivayayy&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+
+<br/>
+
+## 🏆 Github Profile Trophy
+
+<p align="left">
+    <a href="https://github.com/Shivayayy">
+        <img height="180em"
+        src="https://github-profile-trophy.vercel.app/?username=Shivayayy&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
+</a>
+</p>
+
+<br/>
+
 ## 📬 Contact me
 
 <p align=center>
