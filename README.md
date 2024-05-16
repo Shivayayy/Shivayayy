@@ -18,7 +18,7 @@
 ##  About me
 
 - Currently pursuing `Bachelor of Technology in Computer Science and Engineering` from `Indian Institute of Information technology , Guwahati`
-- I have a strong interest in `Data Structures and Algorithms` `Data Science` and `Artificial Intelligence`
+- I have a strong interest in `Data Structures and Algorithms` , `Data Science` and `Artificial Intelligence`
 - I'm a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 -  I’m currently open for a new job opportunity, this is [`my resume`](http://lnkiy.in/z2wwI).
 
