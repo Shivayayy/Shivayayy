@@ -2,8 +2,7 @@
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hung+Pham;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw" alt="Typing SVG" /></a>
-</div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=102&random=false&width=435&lines=Hi+%2C+I+am+Shivam+Kumar+Dwivedi;Backend+Developer;Data+Science+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
 	<a href="https://github.com/hungpham3112">
