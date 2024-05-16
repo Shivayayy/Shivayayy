@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+    <img src="https://raw.githubusercontent.com/Shivayayy/Shivayayy/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
 <div align=center>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=102&random=false&width=435&lines=Hi+%2C+I+am+Shivam+Kumar+Dwivedi;Backend+Developer;Data+Science+Enthusiast;Open+Source+Enthusiast" alt="Typing SVG" /></a>
@@ -108,10 +108,10 @@
 ## 📈 Github Profile Stats
 
 <p align="center">
-    <a href="https://github.com/hungpham3112">
-        <img height="180em" src="https://streak-stats.demolab.com?user=hungpham3112&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpham3112&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham3112&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    <a href="https://github.com/Shivayayy">
+        <img height="180em" src="https://streak-stats.demolab.com?user=Shivayayy&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivayayy&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivayayy&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
     </a>
 </p>
 
@@ -120,26 +120,26 @@
 ## 🏆 Github Profile Trophy
 
 <p align="left">
-    <a href="https://github.com/hungpham3112">
+    <a href="https://github.com/Shivayayy">
         <img height="180em"
-        src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
+        src="https://github-profile-trophy.vercel.app/?username=Shivayayy&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
 </a>
 </p>
 
 ## 📬 Contact me
 
 <p align=center>
-    <a href="https://github.com/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
+    <a href="https://github.com/Shivayayy" target="_blank">
+        <img src="https://raw.githubusercontent.com/Shivayayy/Shivayayy/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
     </a>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+    <a href="https://linkedin.com/in/Shivayayy" target="_blank">
+        <img src="https://raw.githubusercontent.com/Shivayayy/Shivayayy/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
+        <img src="https://raw.githubusercontent.com/Shivayayy/Shivayayy/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
     </a>
     <a href="mailto:phamhung20022015@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
+        <img src="https://raw.githubusercontent.com/Shivayayy/Shivayayy/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
     </a>
 </p>
 
@@ -147,5 +147,7 @@
 
 ---
 
-Credit: [hungpham3112](https://github.com/hungpham3112)
+Credit: [Shivayayy](https://github.com/Shivayayy)
 Last edited on: 28/08/2023
+
+
