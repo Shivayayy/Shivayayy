@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fyosukes-dev%2FAmazonWSL%2Fissues%2F2&psig=AOvVaw1WDmIAvz9-e3G-DCLbNhsP&ust=1715943167879000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICR09SAkoYDFQAAAAAdAAAAABAE">
+  <img src="https://fontawesome.com/v5/icons/aws?f=brands&s=solid">
 </span>
 
 
