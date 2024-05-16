@@ -17,10 +17,10 @@
 
 ## ♑ About me
 
-- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
+Currently pursuing Bachelor of Technology in Computer Science and Engineering | 4th Year
+Indian Institute of Information Technology, Guwahati
 
-- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
-
+Adept in Flutter app development, Node.js Backend, and full-stack projects. Proficient in Java, Python, C++, Dart, and JavaScript. Experienced in creating intuitive and dynamic user experiences with a focus on seamless front-end and robust back-end integration. Proven track record in competitive tech events and leadership roles. Passionate about leveraging technology to solve real-world problems and enhance user interactions.
 <br/>
 
 ## 🛠️ Tools
