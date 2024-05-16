@@ -5,8 +5,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=102&random=false&width=435&lines=Hi+%2C+I+am+Shivam+Kumar+Dwivedi;Backend+Developer;Data+Science+Enthusiast;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
-	<a href="https://github.com/hungpham3112">
-		<img src="https://komarev.com/ghpvc/?username=hungpham3112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+	<a href="https://github.com/Shivayayy">
+		<img src="https://komarev.com/ghpvc/?username=Shivayayy2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
 	<a href="https://github.com/hungpham3112">
 		<img src="https://img.shields.io/github/followers/hungpham3112?label=Followers" alt="followers"/>
