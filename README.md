@@ -18,8 +18,9 @@
 ##  About me
 
 -Currently pursuing Bachelor of Technology in Computer Science and Engineering from 
-<div align="center">
-    <img src="https://via.placeholder.com/350x150.png?text=Indian+Institute+of+Information+Technology%2C+Guwahati" alt="Indian Institute of Information Technology, Guwahati" style="border: 2px solid #0e75b6; padding: 10px; border-radius: 10px;">
+<div align="center" style="border: 2px solid #0e75b6; padding: 10px; border-radius: 10px; display: inline-block; margin: 10px 0;">
+    <strong>Indian Institute of Information Technology, Guwahati</strong>
+</div>
 </div>
 
 -Adept in Flutter app development, Node.js Backend, and full-stack projects. Proficient in Java, Python, C++, Dart, and JavaScript. Experienced in creating intuitive and dynamic user experiences with a focus on seamless front-end and robust back-end integration. Proven track record in competitive tech events and leadership roles. Passionate about leveraging technology to solve real-world problems and enhance user interactions.
