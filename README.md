@@ -8,7 +8,7 @@
 	<a href="https://github.com/Shivayayy">
 		<img src="https://komarev.com/ghpvc/?username=Shivayayy2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 	</a>
-	<a href="https://github.com/hungpham3112">
+	<a href="https://github.com/Shivayayy">
 		<img src="https://img.shields.io/github/followers/Shivayayy?label=Followers" alt="followers"/>
 	</a>
 </p>
