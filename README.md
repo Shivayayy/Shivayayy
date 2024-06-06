@@ -111,7 +111,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/shivam-kumar-dwivedi-b2351524b"><img src="https://img.shields.io/badge/-Shivam%20Dwivedi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shivamwork21b@gmail.com"><img src="https://img.shields.io/badge/-shivamwork21b@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/shivamdwivedi6700/"><img src="https://img.shields.io/badge/-shivamdwivedi6700-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
 </p>
 
 
